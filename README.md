@@ -7,8 +7,6 @@ I have already made one commercial website - [Iulian Boiko](https://iulianboiko.
 - React/NextJS
 - NodeJs/Express and NestJs
 - Git/Gulp/Heroku/MongoDB/MaterialUI
-### Stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MAKAR190)](https://github.com/MAKAR190/github-readme-stats)
 ### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAKAR190)](https://github.com/MAKAR190/github-readme-stats)
 <!--
