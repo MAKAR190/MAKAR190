@@ -59,7 +59,8 @@ Feel free to connect with me or check out my projects to see my skills in action
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAKAR190)](https://github.com/MAKAR190/github-readme-stats)
 
 ## Stats
-[![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={MAKAR190}&theme={dracula})
+[![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MAKAR190&theme=dracula)](http://github.com/MAKAR190)
+
 <!--
 **MAKAR190/MAKAR190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
