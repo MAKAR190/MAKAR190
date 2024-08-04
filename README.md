@@ -57,7 +57,6 @@ Feel free to connect with me or check out my projects to see my skills in action
 
 ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MAKAR190&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAKAR190&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MAKAR190&theme=dracula)](http://github.com/MAKAR190)
 
 <!--
