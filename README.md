@@ -6,7 +6,7 @@ I'm a passionate and dedicated web developer and student, driven by a love for c
 - Integrating CMS systems and developing microservices with Node.js and Nest.js (modeling, API routes)
 
 ## 🌱 I’m currently learning...
-- Advanced TypeScript for scalable application development.
+- Shopify full headless integration
 - Exploring more about headless CMS like Sanity and GraphQL integrations.
 
 ## 👯 I’m looking to collaborate on...
@@ -14,8 +14,8 @@ I'm a passionate and dedicated web developer and student, driven by a love for c
 - Innovative projects that challenge my skills in both frontend and backend development.
 
 ## 🤔 I’m looking for help with...
-- Optimizing performance in large-scale React applications.
-- Best practices for scalable NoSQL database design.
+- Optimizing performance in large-scale React and Next.js applications.
+- Best practices for scalable NoSQL database design and AWS.
 
 ## 💬 Ask me about...
 - Frontend development with React/Redux, Next.js, and TypeScript.
