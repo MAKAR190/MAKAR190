@@ -56,8 +56,8 @@ I guarantee an unrelenting enthusiasm for work and a commitment to fulfilling pr
 Feel free to connect with me or check out my projects to see my skills in action!
 
 ## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MAKAR190&show_icons=true&theme=dracula)
-[![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MAKAR190&theme=dracula)](http://github.com/MAKAR190)
+[![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MAKAR190&theme=radical)](http://github.com/MAKAR190)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAKAR190&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MAKAR190/MAKAR190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
