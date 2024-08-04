@@ -55,11 +55,11 @@ I'm a passionate and dedicated web developer and student, driven by a love for c
 I guarantee an unrelenting enthusiasm for work and a commitment to fulfilling projects with unparalleled effort. Let's collaborate, and I assure you, there will be no regrets.
 Feel free to connect with me or check out my projects to see my skills in action!
 
-## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAKAR190)](https://github.com/MAKAR190/github-readme-stats)
-
 ## Stats
 [![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MAKAR190&theme=dracula)](http://github.com/MAKAR190)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MAKAR190&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAKAR190&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **MAKAR190/MAKAR190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
