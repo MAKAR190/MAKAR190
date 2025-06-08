@@ -1,59 +1,62 @@
 # Hi there 👋
-I'm a passionate and dedicated web developer and student, driven by a love for coding and an eagerness to tackle new challenges. My goal is to apply my skills and expertise to create impactful projects with unwavering enthusiasm and dedication.
+I'm a passionate Software Engineer driven by a deep interest in solving complex problems and creating impactful software solutions. My journey is fueled by constant learning and an ambition to deliver robust, scalable systems.
 
-## 🔭 I’m currently working on...
-- Building dynamic and responsive web applications using React and Next.js
-- Integrating CMS systems and developing microservices with Node.js and Nest.js (modeling, API routes)
+🔭 I’m currently working on...
+Exploring side projects that solve real-world problems.
 
-## 🌱 I’m currently learning...
-- Shopify full headless integration
-- Exploring more about headless CMS like Sanity and GraphQL integrations.
+Building scalable and efficient web applications.
 
-## 👯 I’m looking to collaborate on...
-- Open-source projects related to web development.
-- Innovative projects that challenge my skills in both frontend and backend development.
+🌱 I’m currently learning...
+Advanced algorithms and data structures for optimized problem-solving.
 
-## 🤔 I’m looking for help with...
-- Optimizing performance in large-scale React and Next.js applications.
-- Best practices for scalable NoSQL database design and AWS.
+System design principles to architect robust, large-scale applications.
 
-## 💬 Ask me about...
-- Frontend development with React/Redux, Next.js, and TypeScript.
-- Backend development with Node.js, Express, and Nest.js.
-- Integrating headless CMS with modern web frameworks.
+👯 I’m looking to collaborate on...
+Side projects that involve system-level problem-solving or complex algorithms.
 
-## 📫 How to reach me:
+Open-source initiatives focused on improving software design and performance.
+
+🤔 I’m looking for help with...
+Best practices in designing scalable distributed systems.
+
+Insights into advanced topics in database sharding and caching mechanisms.
+
+💬 Ask me about...
+System design and trade-offs.
+
+Writing clean, maintainable code for long-term success.
+
+Crafting efficient algorithms for competitive programming or real-world applications.
+
+📫 How to reach me:
 - [Email](mailto:lutskyimakar@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/makar-lutskyi-634991208)
 
-## ⚡ Fun fact:
-- I don't like PHP 👀
+⚡ Fun fact:
+I love dissecting algorithmic puzzles almost as much as I enjoy coffee ☕.
 
-# 🔧 Technical Skills
+🔧 Technical Skills
+Backend Stack:
+Frameworks: Node.js, Nest.js
 
-## Frontend Stack:
-- Languages & Frameworks: HTML, CSS, JavaScript, React/Redux, Next.js, TypeScript
-- UI Libraries: MaterialUI, TailwindCSS
+APIs & Architecture: REST, GraphQL, Microservices, System Design
 
-## Backend Stack:
-- Frameworks & Tools: Node.js/Express, Nest.js
-- APIs & Databases: API Routing, NoSQL databases
-- CMS Expertise: Sanity, WordPress (headless, GraphQL), Shopify
+Database Expertise: MongoDB, Supabase, NoSQL and SQL optimization
 
-## Libraries & Tools:
-- UI Components: Aceternity UI, Shadcn UI, Material UI
-- Animations: GSAP
-- State Management: React Redux, React Router
-- Design & Deployment: Figma, Vercel
-- Productivity: ChatGPT, Git, Trello
+Frontend Stack:
+Languages & Frameworks: React, Next.js, TypeScript
 
-## Database Stack: 
-- MongoDB
-- Supabase
+Styling: TailwindCSS, MaterialUI
 
-## 🚀 What I Bring to the Table
-I guarantee an unrelenting enthusiasm for work and a commitment to fulfilling projects with unparalleled effort. Let's collaborate, and I assure you, there will be no regrets.
-Feel free to connect with me or check out my projects to see my skills in action!
+Productivity Stack:
+Tools: Git, Docker, VS Code, ChatGPT
+
+Deployment: Vercel, AWS
+
+Workflow: Agile, Trello
+
+🚀 What I Bring to the Table
+An analytical mindset, an unyielding dedication to building scalable systems, and a knack for translating complex problems into elegant solutions. I'm always ready to collaborate and take on challenging projects.
 
 ## Stats
 [![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MAKAR190&theme=radical)](http://github.com/MAKAR190)
