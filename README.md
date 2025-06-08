@@ -31,7 +31,7 @@ Crafting efficient algorithms for competitive programming or real-world applicat
 📫 How to reach me:
 
 - [Email](mailto:lutskyimakar@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/makar-lutskyi-634991208)
+- [LinkedIn](https://www.linkedin.com/in/makar-lutskyi)
 
 ⚡ Fun fact:
 
