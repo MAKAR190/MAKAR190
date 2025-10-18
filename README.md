@@ -4,29 +4,28 @@ I'm a passionate Software Engineer driven by a deep interest in solving complex 
 🔭 I’m currently working on...
 
 Exploring side projects that solve real-world problems.
-Building scalable and efficient web applications.
 
 🌱 I’m currently learning...
 
-Advanced algorithms and data structures for optimized problem-solving.
-System design principles to architect robust, large-scale applications.
+- Machine Learning
+- Algorithms and data structures for optimized problem-solving.
+- System design principles to architect robust, large-scale applications.
 
 👯 I’m looking to collaborate on...
 
-Side projects that involve system-level problem-solving or complex algorithms.
-Open-source initiatives focused on improving software design and performance.
+Any project (preferably web-based) that aims to solve a niche real-world problem. 
 
 🤔 I’m looking for help with...
 
-Best practices in designing scalable distributed systems.
-Insights into advanced topics in database sharding and caching mechanisms.
+- Best practices in designing scalable distributed systems.
+- Mock interviews.
+- Collaborating on interesting projects.
 
 💬 Ask me about...
 
-System design and trade-offs.
-Writing clean, maintainable code for long-term success.
-
-Crafting efficient algorithms for competitive programming or real-world applications.
+- System design and trade-offs.
+- Writing clean, maintainable code for long-term success.
+- Full-Stack Web Development in general.
 
 📫 How to reach me:
 
@@ -35,31 +34,13 @@ Crafting efficient algorithms for competitive programming or real-world applicat
 
 ⚡ Fun fact:
 
-I love dissecting algorithmic puzzles almost as much as I enjoy coffee ☕.
+I hate PHP ☕.
 
 🔧 Technical Skills
 
-Backend Stack:
-
-Frameworks: Node.js, Nest.js
-
-APIs & Architecture: REST, GraphQL, Microservices, System Design
-
-Database Expertise: MongoDB, Supabase, NoSQL and SQL optimization
-
-Frontend Stack:
-
-Languages & Frameworks: React, Next.js, TypeScript
-
-Styling: TailwindCSS, MaterialUI
-
-Productivity Stack:
-
-Tools: Git, Docker, VS Code, ChatGPT
-
-Deployment: Vercel, AWS
-
-Workflow: Agile, Trello
+- Languages: JavaScript / Typescript • Python • C++ • SQL
+- Web Development: React.js • Node.js / Express • MongoDB • REST APIs • GraphQL • JSON • HTML5 • CSS3 • Next.js
+- Software Engineering: Algorithms & Data Structures • Object-Oriented Programming (OOP) • Software Architecture Basics • Database Design (Relational & NoSQL) • Linux / Bash • Docker • Machine Learning Fundamentals (scikit-learn, NumPy, pandas)
 
 🚀 What I Bring to the Table
 
