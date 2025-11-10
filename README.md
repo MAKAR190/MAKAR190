@@ -10,6 +10,7 @@ Exploring side projects that solve real-world problems.
 - Machine Learning
 - Algorithms and data structures for optimized problem-solving.
 - System design principles to architect robust, large-scale applications.
+- Computer vision 
 
 👯 I’m looking to collaborate on...
 
