@@ -49,7 +49,8 @@ An analytical mindset, an unyielding dedication to building scalable systems, an
 
 ## Stats
 [![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MAKAR190&theme=radical)](http://github.com/MAKAR190)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAKAR190&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAKAR190&layout=compact&theme=radical)](https://github.com/MAKAR190)
 
 <!--
 **MAKAR190/MAKAR190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
